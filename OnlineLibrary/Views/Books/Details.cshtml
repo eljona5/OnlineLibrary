@@ -1,0 +1,19 @@
+﻿@model OnlineLibrary.DataLayer.Entities.Book
+<div class="card">
+    <div class="card-header">
+        <h6>@Model.Title</h6>
+    </div>
+    <div class="card-body">
+        <h7>
+            @Model.Category
+        </h7>
+        <br />
+        <h8>
+            @Model.Description
+        </h8>
+        <br />
+        <h9>
+            @Model.Author.FullName
+        </h9>
+    </div>
+    </div>

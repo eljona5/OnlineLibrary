@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\OnlineLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7008EE-CAAC-415A-91B6-B724BC0117D1}|OnlineLibrary\\OnlineLibrary.csproj|c:\\users\\user\\onedrive\\desktop\\onlinelibrary\\onlinelibrary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB7008EE-CAAC-415A-91B6-B724BC0117D1}|OnlineLibrary\\OnlineLibrary.csproj|solutionrelative:onlinelibrary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7008EE-CAAC-415A-91B6-B724BC0117D1}|OnlineLibrary\\OnlineLibrary.csproj|c:\\users\\user\\onedrive\\desktop\\onlinelibrary\\onlinelibrary\\models\\addauthormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7008EE-CAAC-415A-91B6-B724BC0117D1}|OnlineLibrary\\OnlineLibrary.csproj|solutionrelative:onlinelibrary\\models\\addauthormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7008EE-CAAC-415A-91B6-B724BC0117D1}|OnlineLibrary\\OnlineLibrary.csproj|c:\\users\\user\\onedrive\\desktop\\onlinelibrary\\onlinelibrary\\datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7008EE-CAAC-415A-91B6-B724BC0117D1}|OnlineLibrary\\OnlineLibrary.csproj|solutionrelative:onlinelibrary\\datalayer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddAuthorModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\OnlineLibrary\\OnlineLibrary\\Models\\AddAuthorModel.cs",
+              "RelativeDocumentMoniker": "OnlineLibrary\\Models\\AddAuthorModel.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\OnlineLibrary\\OnlineLibrary\\Models\\AddAuthorModel.cs",
+              "RelativeToolTip": "OnlineLibrary\\Models\\AddAuthorModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:26:54.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\OnlineLibrary\\OnlineLibrary\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineLibrary\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\OnlineLibrary\\OnlineLibrary\\appsettings.json",
+              "RelativeToolTip": "OnlineLibrary\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-28T07:43:17.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\OnlineLibrary\\OnlineLibrary\\DataLayer\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "OnlineLibrary\\DataLayer\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\OnlineLibrary\\OnlineLibrary\\DataLayer\\Entities\\User.cs",
+              "RelativeToolTip": "OnlineLibrary\\DataLayer\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:43:14.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
